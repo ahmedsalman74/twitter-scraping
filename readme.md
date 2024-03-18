@@ -16,7 +16,7 @@ This Python script scrapes specified Twitter accounts for mentions of stock symb
 1. Clone this repository:
 
    ```
-   git clone https://github.com/yourusername/twitter-stock-mentions-scraper.git
+   git clone https://github.com/ahmedsalman74/twitter-stock-mentions-scraper.git
    ```
 
 2. Navigate to the project directory:
